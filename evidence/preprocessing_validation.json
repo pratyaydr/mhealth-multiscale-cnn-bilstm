@@ -1,0 +1,41 @@
+{
+  "run_assignments_exactly_equal": true,
+  "splits": [
+    {
+      "split": "train",
+      "X_shape": [
+        3127,
+        128,
+        23
+      ],
+      "X_exactly_equal": false,
+      "X_max_absolute_difference": 1.9073486328125e-06,
+      "X_within_absolute_tolerance": 3e-06,
+      "y_exactly_equal": true
+    },
+    {
+      "split": "validation",
+      "X_shape": [
+        582,
+        128,
+        23
+      ],
+      "X_exactly_equal": false,
+      "X_max_absolute_difference": 9.5367431640625e-07,
+      "X_within_absolute_tolerance": 3e-06,
+      "y_exactly_equal": true
+    },
+    {
+      "split": "test",
+      "X_shape": [
+        987,
+        128,
+        23
+      ],
+      "X_exactly_equal": false,
+      "X_max_absolute_difference": 1.9073486328125e-06,
+      "X_within_absolute_tolerance": 3e-06,
+      "y_exactly_equal": true
+    }
+  ]
+}

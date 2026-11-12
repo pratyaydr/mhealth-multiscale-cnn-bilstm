@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-09",
+  "timezone": "Asia/Kolkata",
+  "pytest": {
+    "passed": 18,
+    "failed": 0,
+    "tensorflow_tests_executed": true
+  },
+  "ruff_lint": "passed",
+  "ruff_format": "passed",
+  "local_markdown_links": "passed",
+  "original_evidence_hashes": "passed",
+  "original_notebook": "byte-preserved",
+  "saved_checkpoints_reproduced": 5,
+  "walkthrough": {
+    "code_cells": 8,
+    "execution": "IPython in-process sequential fallback",
+    "normal_jupyter_kernel": "blocked by socket restrictions",
+    "html_export": "passed",
+    "full_browser_visual_inspection": "blocked by socket restrictions"
+  },
+  "synthetic_cli": {
+    "train_epochs": 1,
+    "train_and_test_evaluation": "passed",
+    "benchmark_result": false
+  },
+  "full_retraining": "not performed",
+  "remote_publication": "not performed",
+  "github_actions": "not run remotely"
+}

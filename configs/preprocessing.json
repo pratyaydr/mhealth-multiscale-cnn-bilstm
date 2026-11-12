@@ -1,0 +1,12 @@
+{
+  "data_path": "data/raw/mHealth.csv",
+  "output_dir": "data/processed",
+  "ratios": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "seed": 43,
+  "window_size": 128,
+  "overlap": 64
+}

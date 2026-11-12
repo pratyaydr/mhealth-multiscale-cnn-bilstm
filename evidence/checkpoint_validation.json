@@ -1,0 +1,62 @@
+{
+  "tensorflow": "2.20.0",
+  "keras": "3.13.2",
+  "status": "saved-checkpoint inference; no retraining",
+  "experiments": [
+    {
+      "experiment": "hybrid",
+      "parameters": 61404,
+      "max_refactor_probability_difference": 0.0,
+      "Accuracy": 0.9290780141843972,
+      "Macro_Precision": 0.9434126879389798,
+      "Macro_Recall": 0.9333360822475122,
+      "Macro_F1": 0.9280399399661724,
+      "Weighted_F1": 0.9267852054555373,
+      "matches_recorded_test_metrics": true
+    },
+    {
+      "experiment": "cnn",
+      "parameters": 29916,
+      "max_refactor_probability_difference": 0.0,
+      "Accuracy": 0.8986828774062816,
+      "Macro_Precision": 0.9373900757986795,
+      "Macro_Recall": 0.9036175710594315,
+      "Macro_F1": 0.9001563213016345,
+      "Weighted_F1": 0.8933468868077428,
+      "matches_recorded_test_metrics": true
+    },
+    {
+      "experiment": "lstm",
+      "parameters": 36588,
+      "max_refactor_probability_difference": 0.0,
+      "Accuracy": 0.8581560283687943,
+      "Macro_Precision": 0.890215498560489,
+      "Macro_Recall": 0.8601969953349909,
+      "Macro_F1": 0.852979561356198,
+      "Weighted_F1": 0.8552775124085815,
+      "matches_recorded_test_metrics": true
+    },
+    {
+      "experiment": "bilstm",
+      "parameters": 89132,
+      "max_refactor_probability_difference": 0.0,
+      "Accuracy": 0.8723404255319149,
+      "Macro_Precision": 0.898333026186796,
+      "Macro_Recall": 0.8794285007422068,
+      "Macro_F1": 0.8684827851556612,
+      "Weighted_F1": 0.8665923661516246,
+      "matches_recorded_test_metrics": true
+    },
+    {
+      "experiment": "cnn11",
+      "parameters": 29867,
+      "max_refactor_probability_difference": 0.0,
+      "Accuracy": 0.9305711086226204,
+      "Macro_Precision": 0.9477028347996089,
+      "Macro_Recall": 0.9386892177589853,
+      "Macro_F1": 0.9303191442266999,
+      "Weighted_F1": 0.9274156956874083,
+      "matches_recorded_test_metrics": true
+    }
+  ]
+}

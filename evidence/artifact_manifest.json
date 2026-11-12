@@ -1,0 +1,362 @@
+[
+  {
+    "path": ".virtual_documents/__notebook_source__.ipynb",
+    "bytes": 145478,
+    "sha256": "b2f6e13239b5e1dddbbd9d23b7c03adf7ce797b690aa8ebcbf62047806eba24e",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___0_1.png",
+    "bytes": 171205,
+    "sha256": "49cbca3f9f838406c3e77ec0897adf1c617667ca6089120bd6a08646c5c50cca",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___0_2.png",
+    "bytes": 21099,
+    "sha256": "242f4eae0ec418d740eee5f5032e384b62f940dbef30ebca080df822921714a6",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___0_3.png",
+    "bytes": 18947,
+    "sha256": "65772ad4edb948d428fc5c9a77b8e99399ae55fd39499669639f47842f570680",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___0_4.png",
+    "bytes": 34792,
+    "sha256": "9f62c02ca1e088487dffcfeb2196b4b2e734cdc1ed3fc1cf05d2c59a0332dc62",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___10_7.png",
+    "bytes": 55274,
+    "sha256": "cf72bb5db6cd1e284efd5754374090b94cb4143730cccb71c74100607913d51a",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___10_9.png",
+    "bytes": 71698,
+    "sha256": "aec27afbb8285fa9b0a3dde1836d51ddbdd7fcf35fd8eb97161a68dc45b58c6d",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___12_7.png",
+    "bytes": 68695,
+    "sha256": "0d42e627e17e091e68f5adb84cb2c2a06a9c85f5c733067bc9d7ac7faed9817a",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___12_9.png",
+    "bytes": 79181,
+    "sha256": "dcfee943455df68bf4628bf30d35fa3869e74d4ba6d71a5bf28ffb16e768b816",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___13_7.png",
+    "bytes": 66565,
+    "sha256": "ced95847e9534814fb879ba9dc1c0a086257d41711e24c636425b53c9fd2ae35",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___13_9.png",
+    "bytes": 79544,
+    "sha256": "007b0b49698dd5540233b320f278f8b62200fded88feb99479224201f479d81b",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___7_10.png",
+    "bytes": 76854,
+    "sha256": "0d05c748c8fdf6d24a43f8bc5bc1c5dcf33a1ed7d513ff4d9954d5485ca0cadd",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___7_8.png",
+    "bytes": 62090,
+    "sha256": "f89526449fd7dea50dccdb5e7d2f754a1b8a378f61f59d51c2754a6c17643fdc",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___9_11.png",
+    "bytes": 78168,
+    "sha256": "e47c45fbf12b2755756cd7e4f3524d21e7fc3126e2f21ae44f00888fb47b93cf",
+    "included": false
+  },
+  {
+    "path": "__results___files/__results___9_9.png",
+    "bytes": 54606,
+    "sha256": "9dd5ed3b1d28a398c2979d43da731da8890be6e88789d6a0328e5a6e5c6acb77",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/activity_run_split_assignment.csv",
+    "bytes": 3193,
+    "sha256": "46c85f79f5d09a88a7f54811dbce97e4fbd204b1efe76eb96611fe6619ecc004",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/activity_runs.csv",
+    "bytes": 2520,
+    "sha256": "417a34a9cf19d896eb41ed22ed42aba26db4be11a8a127736a97f7e626d9517e",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/best_bilstm_only.keras",
+    "bytes": 1150733,
+    "sha256": "e670fbf900a871230700880cebf494a2f9452b13675066aa5b44485ee426182a",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/confusion_matrix.png",
+    "bytes": 189977,
+    "sha256": "7966abd68b785cc3acab271f2ccecdf49582a3621b0a6c167bc841dcd52ccf92",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/confusion_matrix_normalized.csv",
+    "bytes": 1033,
+    "sha256": "393022a8e144704459b4288b280787190fe5414e1595d24fdf61f4ee20f20f82",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/confusion_matrix_raw.csv",
+    "bytes": 650,
+    "sha256": "4c9640448d36a9826eb47b2191e2694fa634603a0fb5e7764073bc02e5afcadc",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/perclass_metrics.csv",
+    "bytes": 639,
+    "sha256": "2daeee04d9978ac0e1a7fc376a3800ef2832f8e0838ad0db8881af00b1f04bbe",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/results.csv",
+    "bytes": 371,
+    "sha256": "505d05cdac26884ff042f661bdd07c7d463422685bf91f68a7dae2f44fbc57c5",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/training_curves.png",
+    "bytes": 149185,
+    "sha256": "c0f945274b2ea87825b80945ed3871bfee551f53106a55c93c5cab6d6587e694",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/bilstm_only_generalization_v1/training_history.csv",
+    "bytes": 4642,
+    "sha256": "d83cdbec8cd9fa990803e91aa95f8dd31b75b980194ae2075828df768911a54c",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/class_weights.json",
+    "bytes": 349,
+    "sha256": "59217aebaa05bb293339b373ceb130d709cfa743153db7de0c66cf0b7db33912",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/class_weights_activity_labels.json",
+    "bytes": 350,
+    "sha256": "9eaa73eefc583abc2a9047aa384f3f41d53eab9c52de797f8f0af6ce9b173abe",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_multiscale_bilstm_11class/best_cnn_multiscale_bilstm_12class.keras",
+    "bytes": 837129,
+    "sha256": "f4d5d4d2aeaafdc5874f62fdcd9cbe2fd4551d393bd1e44e1474889d4d6dbcec",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_multiscale_bilstm_11class/confusion_matrix_normalized.csv",
+    "bytes": 1016,
+    "sha256": "63192ff573299705c738982134e03e49a8f0dfe8dd01bc2846d2ebb317df4c4b",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_multiscale_bilstm_11class/confusion_matrix_raw.csv",
+    "bytes": 650,
+    "sha256": "7e0e08155dbd628991e0e521c5cea975f7ca56a671c3e122ff29e6333e27a14f",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_multiscale_bilstm_11class/perclass_metrics.csv",
+    "bytes": 609,
+    "sha256": "01e290fc95290b11b1acb3ae7d670a1330beb40aaebbd50253a8b9e4a21c9945",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_multiscale_bilstm_11class/results.csv",
+    "bytes": 372,
+    "sha256": "dbc04c8a71f56e867790edcdaa46c26ccd6ed9cb3ac1643ee9057edc1940a6dc",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_multiscale_bilstm_11class/training_history.csv",
+    "bytes": 3193,
+    "sha256": "e48c23a5438ee366570a9ab9ed8ec017a4a1cb538334581e9227dc8f3a746c33",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_11class/cnn_only_11class.keras",
+    "bytes": 440810,
+    "sha256": "b636854c99eeff1e2009610a969f6d8e6f38a511e03771fbab98c07db7f0a3d8",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_11class/confusion_matrix.csv",
+    "bytes": 560,
+    "sha256": "aa3ff3490adebe168cf015c70f56fb1993155b12280de85a79d0fddb611a425b",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_11class/confusion_matrix_normalized.csv",
+    "bytes": 819,
+    "sha256": "1ac2eae65d908d8938b2d59b9d3dd1892b8781d8a1b24d111b08972c321291d1",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_11class/perclass_metrics.csv",
+    "bytes": 480,
+    "sha256": "c32f684cc34b7f16a63ad3f527d719041186547ed5a65adbe282788c2f808175",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_11class/results.csv",
+    "bytes": 371,
+    "sha256": "32b22397b497aeb491053af55981a67db5ba60ca24925fc9b9e3ea2a6e54c3f8",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_11class/training_history.csv",
+    "bytes": 2859,
+    "sha256": "aba6801174051a5f09a623c12809e7ed32df5ce05a9de27a1fa5613c70e75e58",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_12class/cnn_only_12class.keras",
+    "bytes": 441398,
+    "sha256": "e81d1e0366824abd1ed92e008fa01b0c4e7e03d5581fa618f274bf8d118352c1",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_12class/confusion_matrix.csv",
+    "bytes": 649,
+    "sha256": "52a161c49ae7ea083acbfba3ef4b5104e62478198f47b356af5a37accf3a7f6f",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_12class/confusion_matrix_normalized.csv",
+    "bytes": 986,
+    "sha256": "545f3b87d058daa0ffce19fa778922373b640cf768f8c20c60252c9756746203",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_12class/perclass_metrics.csv",
+    "bytes": 594,
+    "sha256": "896e0ad1184b06feed5477b3782bcb92cc4d05e769ea64190c15ff41d7c64de9",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_12class/results.csv",
+    "bytes": 297,
+    "sha256": "9cc6eb3f61c92d0928510bc0ca55f932a2512638bb2a3e8010a2c6ccaec610fe",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/cnn_only_12class/training_history.csv",
+    "bytes": 2576,
+    "sha256": "1790b430f301005edc070e364c903d128ebae9fcb3c535928aa5a266603bcfd9",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/dataset_summary.csv",
+    "bytes": 175,
+    "sha256": "509cd484b8a12020648663edf61c040f83c8eb82ebf47096d3a15979ae7cffd1",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/best_lstm_only.keras",
+    "bytes": 497811,
+    "sha256": "90f73179fa1b38b9f342925981d90b39ea1145f4d2c5903e89147f372733e12e",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/confusion_matrix.png",
+    "bytes": 189088,
+    "sha256": "40b0d9f9887f54f576a8cbdf08b513591e0ba8b2e591d7134f48fb8e397ea9b9",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/confusion_matrix_normalized.csv",
+    "bytes": 1031,
+    "sha256": "71158617896be24b484d32bd30f4fb795b7ff299a7249bded47e9eeb942100e5",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/confusion_matrix_raw.csv",
+    "bytes": 650,
+    "sha256": "e9ab9b7307d1a6f0dcc88c7ca815088eb8b5d98e7c4c118fea1e0e3e8ac7d695",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/perclass_metrics.csv",
+    "bytes": 669,
+    "sha256": "8878cb0996e4674d5d28d834ff5a39ba26280ebae3f9f51468b4bec52d0f2f3f",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/results.csv",
+    "bytes": 369,
+    "sha256": "d11de8b99bf6ece45aea3f49a9720bd4a3578bf43e65615f4363f65cad427f21",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/training_curves.png",
+    "bytes": 155096,
+    "sha256": "a25072bba0ac38c3927f79c5fc54bae5a6b9cfd1aa46059574488d4195f28c2a",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/lstm_only_generalization_v1/training_history.csv",
+    "bytes": 4634,
+    "sha256": "6c2aa76f926d66715d6ca304cd2d471c13dca2fd753628f2b1ff794930024178",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/preprocessing_configuration.json",
+    "bytes": 1368,
+    "sha256": "d6620c0413e144a341830c8bdbc88d28343fe7148e9cffc9bfcb3a46d0749e46",
+    "included": true
+  },
+  {
+    "path": "mHealth_preprocessed/standard_scaler.pkl",
+    "bytes": 1151,
+    "sha256": "a49a62e22dd54b802568225e9608d19ae0f264bd53e2ca1524376da5fda4e741",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/test.npz",
+    "bytes": 4249439,
+    "sha256": "5e75ed0ce7c9ea9f6aa73328da42d30a1ba3b029d0a5573426c18951625de563",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/train.npz",
+    "bytes": 13605464,
+    "sha256": "e4e75a0dd53c6345ece54b4fb9d687e62358f911367a0b567afd20dd6e3f1b16",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/validation.npz",
+    "bytes": 2528266,
+    "sha256": "0d763f58b8021c9558c2685865a7915edf28e2d3e3ecd5124660c28e7176564f",
+    "included": false
+  },
+  {
+    "path": "mHealth_preprocessed/window_statistics.csv",
+    "bytes": 119,
+    "sha256": "62570ce94fc0dd3650fbbdb4bb26d3abfa89f298d8c655d39536b8abd98a5cfe",
+    "included": true
+  }
+]

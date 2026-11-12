@@ -1,0 +1,2 @@
+# Install this file from the repository root. Full training + notebook environment.
+-e .[train,dev]

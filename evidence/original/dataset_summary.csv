@@ -1,0 +1,4 @@
+Dataset,Raw_Samples,Windows,Window_Size,Overlap,Features_Per_Window,Activity_Runs
+Train,205108,3127,128,64,23,70
+Validation,38092,582,128,64,23,12
+Test,64821,987,128,64,23,23

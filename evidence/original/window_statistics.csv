@@ -1,0 +1,4 @@
+Split,Total_Possible_Windows,Accepted_Windows,Skipped_Short_Runs
+Train,3127,3127,0
+Validation,582,582,0
+Test,987,987,0
